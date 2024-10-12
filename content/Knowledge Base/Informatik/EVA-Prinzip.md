@@ -1,0 +1,28 @@
+>Eingabe-Verarbeitung-Ausgabe Prinzip
+
+- durch Sensoren - Steuereinheit - Aktoren
+- rechnergestützte Informationsverarbeitung
+- Analog
+	- repräsentieren kontinuierliche Funktion, erfolgt durch physikalische Größe, die stufenlos verändert werden kann
+- Digital
+	- diskret
+	- durch Zeichen eines Zeichenvorrats repräsentiert
+	- können auf Datenträgern gespeichert werden
+- Stellenwertsysteme
+- Binäres Zahlensystem
+	- Dualsystem: 2 Zustände: an / aus : Einheit (Bit)
+	- alle mathematischen Gleichungen durchführen 
+	- analoge Aufgaben durchführen
+	- Byte: 8 Bit
+- Kommazahlen
+	- Festkommadarstellung
+		- 
+	- Gleitkommadarstellung
+- Codes
+	- System von Regeln und Übereinkünften, Zuordnung von Zeichen(folgen) zweier verschiedener Zeichenvorräte erlaubt
+	- Schlüssel, mit dessen Hilfe ein chiffrierter Text in Klartext übertragen werden kann
+- Unicode
+	- mehr-Bit-Code $2^{16}$
+- Eingabeformen
+- Sprachebenen und Maschinensprache
+	- Assemblersprache: (Prozessorsprache ?)

@@ -1,0 +1,30 @@
+- Sender → Eve → Empfänger
+---
+- [[HTTP]] (Hypertext Transfer Protocol)
+    - Protokoll für die Übertragung von Webseiten im Internet
+    - verwendet standardmäßig Port 80 (unverschlüsselt) oder 443 (mit HTTPS verschlüsselt)
+- [[HTTPS]] (Hypertext Transfer Protocol Secure)
+    - sichere Version von HTTP, verschlüsselte Verbindung (SSL / TLS) für sichere Übertragung von Daten zwischen Benutzer und Website verwendet
+    - Port 443
+- [[FTP]] (File Transfer Protocol)
+    - Protokoll zum Übertragen von Dateien zwischen Computern über ein Netzwerk
+    - Ports 20 (Datenübertragung) & 21 (Steuerung)
+- [[SSH]] 
+- [[../Ingenieurwissenschaften/Telekommunikationstechnik/DNS]] (Domain Name System):
+    - Übersetzt menschenlesbare Domainnamen in IP-Adressen.
+    - Verwendet standardmäßig die Ports 53 (TCP/UDP).
+- [[DHCP]] (Dynamic Host Configuration Protocol):
+    - Automatisches Zuweisen von IP-Adressen und Netzwerkkonfiguration an Geräte in einem Netzwerk.
+    - Verwendet standardmäßig die Ports 67 (Server) und 68 (Client).
+- [[SMTP]] (Simple Mail Transfer Protocol):
+    - Protokoll zum Senden von E-Mails zwischen Servern.
+    - Verwendet standardmäßig den Port 25 (unverschlüsselt) oder 587 (verschlüsselt mit STARTTLS).
+- [[POP3]] (Post Office Protocol 3) und [[IMAP]] (Internet Message Access Protocol):
+    - Protokolle zum Abrufen von E-Mails von einem Server.
+    - POP3 verwendet standardmäßig den Port 110, IMAP den Port 143 (unverschlüsselt) oder 993 (verschlüsselt mit SSL/TLS).
+- [[SNMP]] (Simple Network Management Protocol):
+    - Protokoll zur Überwachung und Verwaltung von Netzwerkgeräten.
+    - Verwendet standardmäßig den Port 161 (Agent) und 162 (Manager).
+- [[NTP]] (Network Time Protocol):
+    - Protokoll zur Synchronisierung der Uhrzeit auf Computern in einem Netzwerk.
+    - Verwendet standardmäßig den Port 123.
