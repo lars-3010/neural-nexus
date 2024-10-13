@@ -1,8 +1,10 @@
 ---
-title: Welcome to Quartz
+title: Welcome to Neural Nexus
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+This is a Knowledge Base in constant development in german / english.
 
-Test123
+## Navigation 
+- [[Maps of Content/Informatik|Informatik]]
+- [[Maps of Content/Mathematik|Mathematik]]
+- [[Maps of Content/Ingenieurwissenschaften|Ingenieurwissenschaften]]
