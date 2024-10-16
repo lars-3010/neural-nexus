@@ -1,6 +1,6 @@
 - use with plugins to create complex websites
 - functions as a database architecture
-- can safe time for building / advancing basic websites
+- can save time for building / advancing basic websites
 
 [04:45:00](https://www.youtube.com/watch?v=09gj5gM4V98&t=17100s) to [05:45:00](https://www.youtube.com/watch?v=09gj5gM4V98&t=20700s) about page vs. post, category vs. tag, widgets, recommended plugins
 

@@ -2,15 +2,6 @@
 >- Wissenschaft der Beschreibung, Erklärung, Gestaltung und Vorhersage rechnergestützter Informationssysteme und deren Einsatz in Wirtschaft und Verwaltung
 
 
-
-
-
-### Module
-- [[Wirtschaftsmathematik 1]]
-- 
-
-- eng verzahnt mit [[Main Second Brain/Wirtschaftswissenschaften/Wirtschaft/BWL 2/BWL]] und [[Grundlagen der Informatik/Informatik]] 
-
 - einschätzen, was nützlich ist, wie kann man neue Technologien einsetzten und wo
 	- lohnt es sich überhaupt?
 - Organisationswissen, BWL-Wissen, Juristisches Wissen, Anwendungswissen, Psychologie, Soziologie, Technisches Wissen
